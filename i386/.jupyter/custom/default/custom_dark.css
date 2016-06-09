@@ -1,0 +1,127 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+
+/* This is the default style ; reset after experimenting 
+
+div#site{
+    height: 100% !important;
+}
+
+.container { width:100% !important; }
+*/
+
+
+/* Uncomment to use a custom font
+div#notebook, div.CodeMirror, div.output_area pre, div.output_wrapper, div.prompt {
+  font-family: 'Custom Font Name', monospace !important;
+}
+*/
+
+
+/*Sherif's customizations*/
+
+/*Otherwise, a lot of backgrounds are white.*/
+div#notebook {background-color: #5e5e5e; border-top: none;}
+div#notebook-container {background-color: #5e5e5e;}
+
+/*Don't need to see jupyter logo, filename, last saved, etc.*/
+div#header-container { display: none; }
+
+/*This prevents scrollable output from having an ugly grey
+shadow around it*/
+div.output.output_scroll {
+    box-shadow: none;
+}
+
+/*Scroll bars*/
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #40484b;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: #40484b; 
+}
+
+
+/*########################*/
+
+
+/* GLOBALS */
+body {background-color: #5e5e5e;}
+a {color: #858585;}
+
+/* INTRO PAGE */
+.toolbar_info, .list_container {color: #a5a5a5;}
+
+/* NOTEBOOK */
+
+/* comment out this line to bring the toolbar back */
+/*div#maintoolbar, div#header {display: none !important;}*/
+
+div.input_prompt {color: #9E9E9E;}
+div.output_prompt {color: #899CA6;}
+div.input_area {
+  border-radius: 0px;
+  border: 1px solid #464b50;
+}
+div.output_area pre {font-weight: normal; color: #a7a7a7;}
+div.output_subarea {font-weight: normal; color: #a7a7a7;}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+  border: 1px  #a7a7a7 solid;
+  color: #a7a7a7;
+}
+div.output_html { font-family: sans-serif; }
+table.dataframe tr {border: 1px #a7a7a7;}
+
+div.cell.selected {border-radius: 0px;}
+div.cell.edit_mode {border-radius: 0px; border: thin solid #899CA6;}
+div.text_cell_render, div.output_html {color: #a7a7a7;}
+
+span.ansiblack {color: #323537;}
+span.ansiblue {color: #0000ff;}
+span.ansigray {color: #838184;}
+span.ansigreen {color: #a3c338;}
+span.ansipurple {color: #899CA6;}
+span.ansired {color: #6b9fcf;}
+span.ansiyellow {color: #dbc72d;}
+
+div.output_stderr {background-color: #6b9fcf;}
+div.output_stderr pre {color: #a5a5a5;}
+
+.cm-s-ipython.CodeMirror {background: #5e5e5e; color: #a5a5a5;}
+.cm-s-ipython div.CodeMirror-selected {background: #323537 !important;}
+.cm-s-ipython .CodeMirror-gutters {background: #5e5e5e; border-right: 0px;}
+.cm-s-ipython .CodeMirror-linenumber {color: #5f5a60;}
+.cm-s-ipython .CodeMirror-cursor {border-left: 1px solid #838184 !important;}
+
+.cm-s-ipython span.cm-comment {color: #9E9E9E;}
+.cm-s-ipython span.cm-atom {color: #7493B1;}
+.cm-s-ipython span.cm-number {color: #899CA6;}
+
+.cm-s-ipython span.cm-property, .cm-s-ipython span.cm-attribute {color: #a3c338;}
+.cm-s-ipython span.cm-keyword {color: #6b9fcf;}
+.cm-s-ipython span.cm-string {color: #dbc72d;}
+.cm-s-ipython span.cm-operator {color: #9E9E9E;}
+.cm-s-ipython span.cm-builtin {color: #899CA6;}
+
+.cm-s-ipython span.cm-variable {color: #a3c338;}
+.cm-s-ipython span.cm-variable-2 {color: #858585;}
+.cm-s-ipython span.cm-def {color: #a5a5a5;}
+.cm-s-ipython span.cm-error {background: #6b9fcf; color: #838184;}
+.cm-s-ipython span.cm-bracket {color: #bd0000;}
+.cm-s-ipython span.cm-tag {color: #6b9fcf;}
+.cm-s-ipython span.cm-link {color: #0000ff;}
+
+.cm-s-ipython .CodeMirror-matchingbracket { text-decoration: underline; color: #a25677 !important;}
