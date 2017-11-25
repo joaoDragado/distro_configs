@@ -1,0 +1,33 @@
+o W-d            	ToggleShowDesktop
+x XF86TouchpadToggle	toggletouchpad.sh
+o A-F4           	Close
+o A-F5           	Iconify
+o A-F6           	ToggleMaximize
+o A-Escape       	Lower
+o A-space        	client-menu
+x Print          	xfce4-screenshooter
+x A-Print        	scrot '%Y-%m-%d--%s_$wx$h_scrot.png' -e 'mv $f ~/Pictures/screenshots/ ; bl-image-viewer ~/Pictures/screenshots/$f'
+o A-Tab          	NextWindow
+o A-S-Tab        	PreviousWindow
+o C-A-Tab        	NextWindow
+x A-F2           	gmrun
+x A-F3           	~/.config/dmenu/dmenu-bind.sh
+x W-f            	bl-file-manager /archive/Leisure/vids/
+x W-t            	x-terminal-emulator
+x W-c            	code
+x W-w            	x-www-browser
+x W-l            	bl-lock
+x W-e            	bl-text-editor
+x W-m            	bl-media-player
+x W-h            	x-terminal-emulator -T 'htop task manager' -e htop
+x W-v            	pavucontrol
+x W-x            	bl-exit
+o W-Tab          	client-list-combined-menu
+o W-space        	root-menu
+o A-C-q          	root-menu
+o W-Right        	GrowToEdgeEast
+o W-Left         	GrowToEdgeWest
+o W-Down         	GrowToEdgeSouth
+o W-Up           	GrowToEdgeNorth
+o W-A-Left       	UnmaximizeFull
+o W-A-Right      	UnmaximizeFull

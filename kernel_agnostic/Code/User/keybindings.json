@@ -1,0 +1,22 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+enter",            "command": "jupyter.execCurrentCell",
+                                     "when": "editorFocus && !findWidgetVisible && !replaceActive && !searchViewletVisible" },
+    { "key": "shift+enter",            "command": "jupyter.execCurrentCellAndAdvance",
+                                     "when": "editorFocus && !findWidgetVisible && !replaceActive && !searchViewletVisible" },
+    { "key": "ctrl+alt+enter",        "command": "jupyter.runSelectionLine",
+                                    "when": "editorFocus && !findWidgetVisible && !replaceActive && !searchViewletVisible"
+                                },
+                                {
+                                    "key": "f12",
+                                    "command": "workbench.action.toggleMultiCursorModifier"
+                                },
+                                {
+                                    "key": "ctrl+alt+s",
+                                    "command": "python.runCurrentTestFile"
+                                },
+                                {
+                                    "key": "ctrl+alt+a",
+                                    "command": "python.runtests"
+                                }
+                            ]

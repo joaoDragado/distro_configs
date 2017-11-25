@@ -1,0 +1,113 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+
+/* This is the default style ; reset after experimenting */ 
+
+div#site{
+    height: 100% !important;
+}
+
+.container { width:100% !important; }
+
+
+/*Sherif's customizations*/
+
+/*Otherwise, a lot of backgrounds are white.*/
+div#notebook {background-color: #E0E0E0; border-top: none;}
+div#notebook-container {background-color: #E0E0E0;}
+
+/*Don't need to see jupyter logo, filename, last saved, etc.*/
+div#header-container { display: none; }
+
+/*This prevents scrollable output from having an ugly grey
+shadow around it*/
+div.output.output_scroll {
+    box-shadow: none;
+}
+
+/*Scroll bars*/
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #40484b;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: #40484b; 
+}
+
+
+/*########################*/
+
+
+/* GLOBALS */
+body {background-color: #E0E0E0;}
+a {color: #858585;}
+
+/* INTRO PAGE */
+
+div.input_area {
+  border-radius: 0px;
+  border: 1px solid #383838;
+}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+  border: 1px  #3B3B3B solid;
+  color: #3B3B3B;
+}
+
+table.dataframe tr {border: 1px #3B3B3B;}
+
+.toolbar_info, .list_container {color: #a5a5a5;}
+
+
+span.ansiblack {color: #393939;}
+span.ansiblue {color: #24249E;}
+span.ansigray {color: #717171;}
+span.ansigreen {color: #008000;}
+span.ansipurple {color: #800080;}
+span.ansired {color: #CA2053;}
+span.ansiyellow {color: #A18400;}
+
+.cm-s-ipython.CodeMirror {background: #E0E0E0; color: #393939;}
+
+
+.cm-s-ipython span.cm-comment {color: #8B6914;}
+.cm-s-ipython span.cm-number {color: #003352;}
+.cm-s-ipython span.cm-operator {color: #732DB4;}
+
+.cm-s-ipython span.cm-property, .cm-s-ipython span.cm-attribute {color: #798D35;}
+.cm-s-ipython span.cm-keyword {color: #4E779D;}
+.cm-s-ipython span.cm-builtin {color: #A64673;}
+
+div.output_stderr {background-color: #008000;}
+div.output_stderr pre {color: #a5a5a5;}
+
+/* 
+.cm-s-ipython span.cm-variable {color: #690A18;}
+.cm-s-ipython span.cm-variable-2 {color: #B82C36;}
+
+*/
+.cm-s-ipython span.cm-variable {color: #690A18;}
+.cm-s-ipython span.cm-atom {color: #B63D97;}
+.cm-s-ipython span.cm-string {color: #2F755C;}
+.cm-s-ipython span.cm-tag {color: #7343C0;}
+
+
+.cm-s-ipython span.cm-def {color: #3A5E9C;}
+.cm-s-ipython span.cm-error {background: #456A8C; color: #7B24A7;}
+.cm-s-ipython span.cm-bracket {color: #3D3D3D;}
+.cm-s-ipython span.cm-link {color: #0000ff;}
+
+
+.cm-s-ipython .CodeMirror-matchingbracket { text-decoration: bold; color: #FF0015 !important;}
+    

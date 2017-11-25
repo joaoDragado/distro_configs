@@ -1,0 +1,38 @@
+// Place your settings in this file to overwrite the default settings
+// Controls the font size in pixels.
+{
+// Controls the style of terminal cursor.
+"terminal.integrated.cursorStyle": "line",
+//show/hide minimap
+"editor.minimap.enabled": false,
+// editor font settings
+"editor.fontSize": 16,
+"editor.fontFamily": "'Input Mono'",
+"editor.wordWrap": "on",
+"python.linting.enabled": false,
+"python.linting.lintOnSave": false,
+"window.zoomLevel": 0,
+"terminal.integrated.fontSize": 14,
+"python.pythonPath": "/home/joao/bin/python3",
+"workbench.colorTheme": "Monokai Dimmed",
+"workbench.iconTheme": null,
+"python.unitTest.promptToConfigure": false,
+"python.unitTest.pyTestEnabled": true,
+"typescript.check.npmIsInstalled": false,
+// Whether git is enabled
+"git.enabled": true,
+// Path to the git executable
+"git.path": "/usr/bin/git",
+// Controls whether to use .gitignore and .ignore files by default when searching in a new workspace.
+"search.useIgnoreFilesByDefault": true,
+// The default location where to clone a git repository
+"git.defaultCloneDirectory": "/archive/Studies/repos",
+"editor.multiCursorModifier": "ctrlCmd",
+// Markdown config files
+"markdown.previewFrontMatter": "show",
+"markdown.preview.breaks": true,
+"markdown.preview.linkify": true,
+"markdown.preview.fontFamily": "'Input Mono'",
+"markdown.preview.fontSize": 16,
+"git.enableSmartCommit": true
+}
