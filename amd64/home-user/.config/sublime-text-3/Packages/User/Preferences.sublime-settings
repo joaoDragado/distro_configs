@@ -1,0 +1,15 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"font_face": "Input Mono",
+	"font_size": 12,
+	// Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": "true",
+
+    // Set to a value other than 0 to force wrapping at that column rather than the
+    // window width
+    "wrap_width": 70,
+
+}

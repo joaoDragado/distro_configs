@@ -1,0 +1,1024 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3126,
+	"last_window_id": 11,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bla",
+						"blacks"
+					],
+					[
+						"crea",
+						"create_table"
+					],
+					[
+						"cre",
+						"create_wheel"
+					],
+					[
+						"sta",
+						"stakes"
+					],
+					[
+						"rounds",
+						"rounds"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"be",
+						"bets"
+					],
+					[
+						"bet",
+						"betMultiple"
+					],
+					[
+						"lo",
+						"lossCount"
+					],
+					[
+						"cl",
+						"class\tNew Class"
+					],
+					[
+						"a",
+						"after_loss"
+					],
+					[
+						"after",
+						"after_win"
+					],
+					[
+						"win",
+						"wins"
+					],
+					[
+						"pla",
+						"placeBet"
+					],
+					[
+						"che",
+						"check_bet"
+					],
+					[
+						"se",
+						"set_bet"
+					],
+					[
+						"s",
+						"stake"
+					],
+					[
+						"el",
+						"eligible"
+					],
+					[
+						"round",
+						"roundsToGo"
+					],
+					[
+						"create",
+						"create_wheel"
+					],
+					[
+						"Bin",
+						"BinBuilder"
+					],
+					[
+						"book",
+						"book_info"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 72.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/non_rnd.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/wheel.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/table.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/game.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/non_random.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_wheel.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_game.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_game.py",
+				"/archive/Leisure/irc/irc_custom_cmds.txt",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/table.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/wheel.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/player.py",
+				"/archive/boookMarks--bashBaks/2017.09.25_info.txt",
+				"/home/joao/.config/hexchat/addons/kara.txt",
+				"/home/joao/.config/hexchat/addons/baby_talk.txt",
+				"/home/joao/.config/hexchat/addons/sub_talk.txt",
+				"/archive/Leisure/irc/rolemodel.txt",
+				"/home/joao/.config/hexchat/addons/tts/tts_commands.md",
+				"/home/joao/.festivalrc",
+				"/home/joao/aplay_help.txt",
+				"/archive/Leisure/my-tts-linux.txt",
+				"/home/joao/.config/hexchat/addons/tts/README.md",
+				"/home/joao/.config/hexchat/addons/autolink.py",
+				"/archive/Leisure/irc/chats/bunnyboycd.log",
+				"/home/joao/.config/hexchat/addons/sonia.txt",
+				"/archive/xXx/chat_links/cassidyKlein/cassidy.txt",
+				"/home/joao/.config/hexchat/addons/waiting.txt",
+				"/home/joao/.config/hexchat/addons/use_me.txt",
+				"/home/joao/.config/hexchat/addons/sis.txt",
+				"/home/joao/.config/hexchat/addons/sissy.txt",
+				"/archive/xXx/spicy/cassidyKlein/cassidy.txt",
+				"/home/joao/.config/hexchat/addons/cassidy.txt",
+				"/archive/xXx/spicy/cassidyKlein/temp.txt",
+				"/home/joao/.config/hexchat/addons/deluxe.txt",
+				"/archive/Leisure/irc/scripts/deluxe.txt",
+				"/archive/Leisure/irc/scripts/fem_talk.txt",
+				"/archive/Leisure/vids/sissy_links.txt",
+				"/archive/Leisure/irc/chats/haamid.log",
+				"/archive/Leisure/irc_custom_cmds.txt",
+				"/home/joao/.config/hexchat/addons/dom_talk.txt",
+				"/home/joao/.config/hexchat/addons/lez.txt",
+				"/home/joao/.config/hexchat/addons/dom_lez.txt",
+				"/archive/Leisure/irc/scripts/url_links.txt",
+				"/archive/Studies/Python/scripts/hello.py"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"p57",
+					"wheel",
+					"table",
+					"Simulator.",
+					"Simulator",
+					"=",
+					", ",
+					"placeBet",
+					"isValid",
+					"roundsToGo",
+					"placeBets",
+					"spins",
+					"set_spins",
+					"bet",
+					"\\s",
+					"eligibility",
+					"eligible",
+					"spins",
+					"win_streak",
+					"losing_streak",
+					"next_bet",
+					"losses",
+					"loose",
+					"100",
+					"callback",
+					"dildo",
+					"callback",
+					"tumblr_olvyh2lkbh1w6csu8o1_400",
+					"134",
+					"151_1000.gif",
+					"151_100",
+					"152_100",
+					"153_1000",
+					"153",
+					"165",
+					"260",
+					"283",
+					"http://x.imagefapusercontent.com/u/madurin45/6195442/1035177233/Nueva_carpeta_tumblr_ngod298za61t4d0e1o1_500.jpg",
+					"http://x.imagefapusercontent.com/u/madurin45/6195442/1118502901/Nueva_carpeta_tumblr_o73yebW6OY1u8uxo5o1_1280.jpg",
+					"015",
+					"003",
+					"<sissydoll>",
+					"<bunnyboyCD>",
+					"callbackDaddy",
+					"callbackMTLK",
+					"DAD",
+					"Mistress",
+					"Mistress's",
+					"dildo",
+					"Mistress's",
+					"callbackLezF",
+					"callbackEat",
+					"callbackFng",
+					"fingered",
+					"callbackLez",
+					"callbackFTLK",
+					"cock",
+					"dick",
+					"daddy",
+					"cock",
+					"dick",
+					"daddy",
+					"callbackdom_Lez",
+					"Lez",
+					"callbackFTLK",
+					"arg",
+					"self",
+					"Putnam",
+					"[\\w &]?Putnam[\\w ]+",
+					"[\\w ]?Putnam[\\w ]+",
+					"Child",
+					", ",
+					",\\d{2},",
+					",\\d{1},",
+					"unknow",
+					"1994",
+					",0,",
+					"audio",
+					"The House on Hope Street",
+					"audio",
+					",,",
+					"Mermaid Chair",
+					"[^\"]\\[",
+					"[]",
+					",\\d{2},",
+					",,",
+					"Ridley Pearson",
+					"rowling",
+					"383606",
+					"robert",
+					"J. D. Robb",
+					"17065",
+					"roberts",
+					"latin-1",
+					"csv/",
+					"link",
+					"latin-1",
+					"'csv/",
+					"to_dict",
+					" and",
+					" and ",
+					",,",
+					" and \\w+,",
+					" and ,",
+					"J. K. Rowling,,",
+					"16700368",
+					",,"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"s",
+					"cock",
+					"",
+					"me:",
+					"she:",
+					"",
+					"your",
+					"cock",
+					"my",
+					"a",
+					"dildo",
+					"Mistress",
+					"dildo",
+					"Mistress",
+					",",
+					"1077326",
+					"Nora Roberts",
+					"625",
+					"utf-8",
+					"data/",
+					"utf-8",
+					"'data/",
+					",",
+					"J. K. Rowling,,1077326",
+					"1077326"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 462.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/python3.sublime-build",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bla",
+						"blacks"
+					],
+					[
+						"crea",
+						"create_table"
+					],
+					[
+						"cre",
+						"create_wheel"
+					],
+					[
+						"sta",
+						"stakes"
+					],
+					[
+						"rounds",
+						"rounds"
+					],
+					[
+						"def",
+						"defs\tMethod"
+					],
+					[
+						"be",
+						"bets"
+					],
+					[
+						"bet",
+						"betMultiple"
+					],
+					[
+						"lo",
+						"lossCount"
+					],
+					[
+						"cl",
+						"class\tNew Class"
+					],
+					[
+						"a",
+						"after_loss"
+					],
+					[
+						"after",
+						"after_win"
+					],
+					[
+						"win",
+						"wins"
+					],
+					[
+						"pla",
+						"placeBet"
+					],
+					[
+						"che",
+						"check_bet"
+					],
+					[
+						"se",
+						"set_bet"
+					],
+					[
+						"s",
+						"stake"
+					],
+					[
+						"el",
+						"eligible"
+					],
+					[
+						"round",
+						"roundsToGo"
+					],
+					[
+						"create",
+						"create_wheel"
+					],
+					[
+						"Bin",
+						"BinBuilder"
+					],
+					[
+						"book",
+						"book_info"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/joao/.config/hexchat/misc/rolemodel.txt",
+					"settings":
+					{
+						"buffer_size": 8489,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/joao/.config/hexchat/misc/channels.txt",
+					"settings":
+					{
+						"buffer_size": 928,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/joao/.config/hexchat/misc/irc_custom_cmds.txt",
+					"settings":
+					{
+						"buffer_size": 353,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 72.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wra",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"pwd"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch2-3.py",
+				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch4.py",
+				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch5.py",
+				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch6.py",
+				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch7.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_game.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/wheel.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/table.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/bet.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/game.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/non_rnd.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/wheel.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/table.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/game.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/non_random.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_simulator.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_wheel.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_player.py",
+				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_game.py",
+				"/archive/Leisure/irc/irc_custom_cmds.txt",
+				"/archive/boookMarks--bashBaks/2017.09.25_info.txt",
+				"/home/joao/.config/hexchat/addons/kara.txt",
+				"/home/joao/.config/hexchat/addons/baby_talk.txt",
+				"/home/joao/.config/hexchat/addons/sub_talk.txt",
+				"/archive/Leisure/irc/rolemodel.txt",
+				"/home/joao/.config/hexchat/addons/tts/tts_commands.md",
+				"/home/joao/.festivalrc",
+				"/home/joao/aplay_help.txt",
+				"/archive/Leisure/my-tts-linux.txt",
+				"/home/joao/.config/hexchat/addons/tts/README.md",
+				"/home/joao/.config/hexchat/addons/autolink.py",
+				"/archive/Leisure/irc/chats/bunnyboycd.log",
+				"/home/joao/.config/hexchat/addons/sonia.txt",
+				"/archive/xXx/chat_links/cassidyKlein/cassidy.txt",
+				"/home/joao/.config/hexchat/addons/waiting.txt",
+				"/home/joao/.config/hexchat/addons/use_me.txt",
+				"/home/joao/.config/hexchat/addons/sis.txt",
+				"/home/joao/.config/hexchat/addons/sissy.txt",
+				"/archive/xXx/spicy/cassidyKlein/cassidy.txt",
+				"/home/joao/.config/hexchat/addons/cassidy.txt",
+				"/archive/xXx/spicy/cassidyKlein/temp.txt",
+				"/home/joao/.config/hexchat/addons/deluxe.txt",
+				"/archive/Leisure/irc/scripts/deluxe.txt",
+				"/archive/Leisure/irc/scripts/fem_talk.txt",
+				"/archive/Leisure/vids/sissy_links.txt",
+				"/archive/Leisure/irc/chats/haamid.log",
+				"/archive/Leisure/irc_custom_cmds.txt",
+				"/home/joao/.config/hexchat/addons/dom_talk.txt",
+				"/home/joao/.config/hexchat/addons/lez.txt",
+				"/home/joao/.config/hexchat/addons/dom_lez.txt",
+				"/archive/Leisure/irc/scripts/url_links.txt",
+				"/archive/Studies/Python/scripts/hello.py"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"p57",
+					"wheel",
+					"table",
+					"Simulator.",
+					"Simulator",
+					"=",
+					", ",
+					"placeBet",
+					"isValid",
+					"roundsToGo",
+					"placeBets",
+					"spins",
+					"set_spins",
+					"bet",
+					"\\s",
+					"eligibility",
+					"eligible",
+					"spins",
+					"win_streak",
+					"losing_streak",
+					"next_bet",
+					"losses",
+					"loose",
+					"100",
+					"callback",
+					"dildo",
+					"callback",
+					"tumblr_olvyh2lkbh1w6csu8o1_400",
+					"134",
+					"151_1000.gif",
+					"151_100",
+					"152_100",
+					"153_1000",
+					"153",
+					"165",
+					"260",
+					"283",
+					"http://x.imagefapusercontent.com/u/madurin45/6195442/1035177233/Nueva_carpeta_tumblr_ngod298za61t4d0e1o1_500.jpg",
+					"http://x.imagefapusercontent.com/u/madurin45/6195442/1118502901/Nueva_carpeta_tumblr_o73yebW6OY1u8uxo5o1_1280.jpg",
+					"015",
+					"003",
+					"<sissydoll>",
+					"<bunnyboyCD>",
+					"callbackDaddy",
+					"callbackMTLK",
+					"DAD",
+					"Mistress",
+					"Mistress's",
+					"dildo",
+					"Mistress's",
+					"callbackLezF",
+					"callbackEat",
+					"callbackFng",
+					"fingered",
+					"callbackLez",
+					"callbackFTLK",
+					"cock",
+					"dick",
+					"daddy",
+					"cock",
+					"dick",
+					"daddy",
+					"callbackdom_Lez",
+					"Lez",
+					"callbackFTLK",
+					"arg",
+					"self",
+					"Putnam",
+					"[\\w &]?Putnam[\\w ]+",
+					"[\\w ]?Putnam[\\w ]+",
+					"Child",
+					", ",
+					",\\d{2},",
+					",\\d{1},",
+					"unknow",
+					"1994",
+					",0,",
+					"audio",
+					"The House on Hope Street",
+					"audio",
+					",,",
+					"Mermaid Chair",
+					"[^\"]\\[",
+					"[]",
+					",\\d{2},",
+					",,",
+					"Ridley Pearson",
+					"rowling",
+					"383606",
+					"robert",
+					"J. D. Robb",
+					"17065",
+					"roberts",
+					"latin-1",
+					"csv/",
+					"link",
+					"latin-1",
+					"'csv/",
+					"to_dict",
+					" and",
+					" and ",
+					",,",
+					" and \\w+,",
+					" and ,",
+					"J. K. Rowling,,",
+					"16700368",
+					",,"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"s",
+					"cock",
+					"",
+					"me:",
+					"she:",
+					"",
+					"your",
+					"cock",
+					"my",
+					"a",
+					"dildo",
+					"Mistress",
+					"dildo",
+					"Mistress",
+					",",
+					"1077326",
+					"Nora Roberts",
+					"625",
+					"utf-8",
+					"data/",
+					"utf-8",
+					"'data/",
+					",",
+					"J. K. Rowling,,1077326",
+					"1077326"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/joao/.config/hexchat/misc/rolemodel.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8294,
+										8294
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3198.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/joao/.config/hexchat/misc/channels.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 928,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										418,
+										418
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/joao/.config/hexchat/misc/irc_custom_cmds.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 353,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										215,
+										215
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 462.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/python3.sublime-build",
+			"position": "0,0,0,0,0,800,4,1598,898,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

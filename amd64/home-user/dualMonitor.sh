@@ -1,0 +1,1 @@
+/home/joao/.screenlayout/dualMonitor.sh
