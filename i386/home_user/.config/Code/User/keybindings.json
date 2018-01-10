@@ -12,11 +12,7 @@
                                     "command": "workbench.action.toggleMultiCursorModifier"
                                 },
                                 {
-                                    "key": "ctrl+alt+s",
+                                    "key": "ctrl+shift+t",
                                     "command": "python.runCurrentTestFile"
-                                },
-                                {
-                                    "key": "ctrl+alt+a",
-                                    "command": "python.runtests"
                                 }
                             ]

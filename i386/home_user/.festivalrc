@@ -1,0 +1,2 @@
+(Parameter.set 'Audio_Command "play -b 16 -c 1 -e signed-integer -r $SR -t raw $FILE pitch -220 tempo 0.85 vol 0.1")
+(Parameter.set 'Audio_Method 'Audio_Command)

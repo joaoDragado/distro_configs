@@ -1,6 +1,8 @@
 // Place your settings in this file to overwrite the default settings
 // Controls the font size in pixels.
 {
+// disable update notifications
+"update.channel": "none",
 // Controls the style of terminal cursor.
 "terminal.integrated.cursorStyle": "line",
 //show/hide minimap
@@ -8,13 +10,15 @@
 // editor font settings
 "editor.fontSize": 16,
 "editor.fontFamily": "'Input Mono'",
+"window.zoomLevel": -2,
 "editor.wordWrap": "on",
 "python.linting.enabled": false,
+// Whether to lint Python files using pylint.
+"python.linting.pylintEnabled": true,
 "python.linting.lintOnSave": false,
-"window.zoomLevel": 0,
-"terminal.integrated.fontSize": 14,
+"terminal.integrated.fontSize": 13,
+"terminal.integrated.lineHeight": 1.0,
 "python.pythonPath": "/home/joao/bin/python3",
-"workbench.colorTheme": "Monokai Dimmed",
 "workbench.iconTheme": null,
 "python.unitTest.promptToConfigure": false,
 "python.unitTest.pyTestEnabled": true,
@@ -30,9 +34,15 @@
 "editor.multiCursorModifier": "ctrlCmd",
 // Markdown config files
 "markdown.previewFrontMatter": "show",
-"markdown.preview.breaks": true,
-"markdown.preview.linkify": true,
+//"markdown.preview.breaks": true,
+//"markdown.preview.linkify": true,
 "markdown.preview.fontFamily": "'Input Mono'",
-"markdown.preview.fontSize": 16,
-"git.enableSmartCommit": true
+"markdown.preview.fontSize": 14,
+"git.enableSmartCommit": true,
+// Controls if files should open in a new window.
+"window.openFilesInNewWindow": "default",
+"workbench.colorTheme": "Monokai",
+"workbench.startupEditor": "newUntitledFile",
+"explorer.confirmDelete": false,
+
 }

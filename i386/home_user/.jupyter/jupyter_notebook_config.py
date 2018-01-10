@@ -70,15 +70,21 @@
 #  If not specified, the default browser will be determined by the `webbrowser`
 #  standard library module, which allows setting of the BROWSER environment
 #  variable to override it.
-#c.NotebookApp.browser = u''
+#c.NotebookApp.browser = u'palemoon'
+
+
+
 
 ## 1. First run 
 #jupyter notebook --generate-config
 ##2. then use the below code in namesake file in 
 # /joao/.jupyter/
-#import webbrowser
-#webbrowser.register('flashpeak-slimjet', None, webbrowser.GenericBrowser('/usr/bin/flashpeak-slimjet'))
-#c.NotebookApp.browser = 'flashpeak-slimjet'
+import webbrowser
+webbrowser.register('palemoon', None, webbrowser.GenericBrowser('/home/joao/bin/palemoon'))
+c.NotebookApp.browser = 'palemoon'
+
+
+
 
 ## The full path to an SSL/TLS certificate file.
 #c.NotebookApp.certfile = u''
