@@ -2,12 +2,12 @@
 	"folder_history":
 	[
 	],
-	"last_version": 3126,
-	"last_window_id": 11,
+	"last_version": 3176,
+	"last_window_id": 17,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 894.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -156,60 +156,11 @@
 			},
 			"file_history":
 			[
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/non_rnd.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/wheel.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/table.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/game.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/non_random.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_wheel.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_game.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_game.py",
-				"/archive/Leisure/irc/irc_custom_cmds.txt",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/table.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/wheel.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/player.py",
-				"/archive/boookMarks--bashBaks/2017.09.25_info.txt",
-				"/home/joao/.config/hexchat/addons/kara.txt",
-				"/home/joao/.config/hexchat/addons/baby_talk.txt",
-				"/home/joao/.config/hexchat/addons/sub_talk.txt",
-				"/archive/Leisure/irc/rolemodel.txt",
-				"/home/joao/.config/hexchat/addons/tts/tts_commands.md",
-				"/home/joao/.festivalrc",
-				"/home/joao/aplay_help.txt",
-				"/archive/Leisure/my-tts-linux.txt",
-				"/home/joao/.config/hexchat/addons/tts/README.md",
-				"/home/joao/.config/hexchat/addons/autolink.py",
-				"/archive/Leisure/irc/chats/bunnyboycd.log",
-				"/home/joao/.config/hexchat/addons/sonia.txt",
-				"/archive/xXx/chat_links/cassidyKlein/cassidy.txt",
-				"/home/joao/.config/hexchat/addons/waiting.txt",
-				"/home/joao/.config/hexchat/addons/use_me.txt",
-				"/home/joao/.config/hexchat/addons/sis.txt",
-				"/home/joao/.config/hexchat/addons/sissy.txt",
-				"/archive/xXx/spicy/cassidyKlein/cassidy.txt",
-				"/home/joao/.config/hexchat/addons/cassidy.txt",
-				"/archive/xXx/spicy/cassidyKlein/temp.txt",
-				"/home/joao/.config/hexchat/addons/deluxe.txt",
-				"/archive/Leisure/irc/scripts/deluxe.txt",
-				"/archive/Leisure/irc/scripts/fem_talk.txt",
-				"/archive/Leisure/vids/sissy_links.txt",
-				"/archive/Leisure/irc/chats/haamid.log",
-				"/archive/Leisure/irc_custom_cmds.txt",
-				"/home/joao/.config/hexchat/addons/dom_talk.txt",
-				"/home/joao/.config/hexchat/addons/lez.txt",
-				"/home/joao/.config/hexchat/addons/dom_lez.txt",
-				"/archive/Leisure/irc/scripts/url_links.txt",
-				"/archive/Studies/Python/scripts/hello.py"
+				"/archive/boookMarks--bashBaks/2018.06.20_bash_history.txt"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 42.0
 			},
 			"find_in_files":
 			{
@@ -223,6 +174,35 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ride",
+					"408",
+					"https://thumb-p0.xhcdn.com/000/106/417/900_1000.gif",
+					"2jk1",
+					"areweelectric",
+					"onlyOnce_forever",
+					"areweelectric",
+					"destroy",
+					"areweelectric",
+					"media\\\\(\\w+)\\\\(\\w+)",
+					"media\\\\\\\\(Ms\\. \\w+)\\\\\\\\(\\w+)",
+					"media\\\\(\\w+)\\\\(\\w+)",
+					"media\\\\(\\w+)\\\\(\\w+)\\\\(\\w+)",
+					"images",
+					"media\\\\\\\\(\\w+)\\\\\\\\(\\w+)",
+					"media\\\\\\\\(\\w+)\\\\\\\\(\\w+)\\\\\\\\(\\w+)",
+					"shayouless",
+					"java",
+					"set",
+					"back",
+					"Super123Deer456Lover789",
+					"/archive/Studies/iPyNotebooks/",
+					"SimpleHTTPServer",
+					"pulse",
+					"python -m",
+					"vboxmanage",
+					"activate",
+					"upda",
+					"xra",
 					"p57",
 					"wheel",
 					"table",
@@ -321,15 +301,7 @@
 					"link",
 					"latin-1",
 					"'csv/",
-					"to_dict",
-					" and",
-					" and ",
-					",,",
-					" and \\w+,",
-					" and ,",
-					"J. K. Rowling,,",
-					"16700368",
-					",,"
+					"to_dict"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -337,6 +309,12 @@
 				"regex": false,
 				"replace_history":
 				[
+					"media/\\1/\\2",
+					"media/\\1/\\2/\\3",
+					"media/\\1/\\2",
+					"media/\\1/\\2/\\3",
+					"shameless",
+					"/archive/Studies/Python/iPyNotebooks",
 					"s",
 					"cock",
 					"",
@@ -367,11 +345,11 @@
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -380,16 +358,16 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 462.0
+				"height": 246.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/User/python3.sublime-build",
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 68.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -420,16 +398,16 @@
 				"width": 0.0
 			},
 			"show_minimap": false,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 798.0
 	},
 	"windows":
 	[
@@ -531,27 +509,30 @@
 			"buffers":
 			[
 				{
-					"file": "/home/joao/.config/hexchat/misc/rolemodel.txt",
+					"file": "/archive/boookMarks--bashBaks/2018.05.13_info.txt",
 					"settings":
 					{
-						"buffer_size": 8489,
+						"buffer_size": 4967,
 						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "tpm0 tpm error attempting to read a pcr value\n\n- Analgesic essential oils\nΧαμομύλι γερμανικό\nΧαμομήλι Εκχυλισμα       € 4,90\nΧαμομήλι Ρωμαϊκό 10ml    € 19,90\nΛεβάντα Αλπική 10ml      € 9,90\n\n- Anti-inflammatory essential oils\nΜύρο 10ml                € 14,90\nΚουρκουμάς 10ml          € 8,90\nΤζίντζερ 10ml            € 5,90\n\nΒαλεριάνα 5 % σε Jojoba  € 6,90\n\n\n----####----\n\n- Analgesic essential oils\nΓωλθέρια (wintergreen)   € 4,90 combined with\nΜέντα (Peppermint)       € 3,00\n\n- Anti-inflammatory essential oils\nΕλίχρυσος 5% -Τζοτζομπα  € 14,90\nΛιβάνι 5% -Σταφυλέλαιο   € 4,90\nΛεμονόχορτο (Lemongrass) € 3,00\n\n----####----\n\n\ngit clone git@github.com:username/repo_name.git\n\n\nregex for video file names:\n\\.\\w+\\.[x|H]264\\-\\.\\w+\n\nscrapbook it\ncsv, tsv, txt, xml, json, dat, md, xls, xlsx, ipynb, py, r\n\nhttp://videolectures.net/course_information_theory_pattern_recognition/\n\nPydata youtube channel :\n\nhttps://www.youtube.com/watch?v=rIofV14c0tc&list=PLGVZCDnMOq0qfJkoiFj-hN7lSHgQzXtqQ&index=32\n\n\nsignup for vodafone σύνδεση 6956309215\n\nhttp://www.vodafone.gr/portal/client/cms/viewCmsPage.action?pageId=8441\n\n# music\n- search blalock torrents # post2010 - www.blalocksirp.com\n- Momus\n\n\nhttps://github.com/data-8/data8assets or not\n- pair the textbook with code/datasets\n\n## interpreting effect size across domains ~ python\n\n## Statistics is Easy by Shasha & Wilson\n\n## Bayesian Data Analysis 3rd Ed\n\n\n##\n# python -m markdown2 README.md > index.html\n# for i in `find *.md`; do `python -m markdown2 --html4tags $i > ${i%.*}.html`; done;\n\n# the Americans season 2\n\n\n## http://cs109.github.io/2015/index.html\n\n## http://ciml.info/\n\n## enron fraud analysis scikit-learn\n\n##\nhttps://spacy.io\nnltk scikit-learn tutorials\n\n\n# https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon\n# https://github.com/MKLab-ITI/greek-sentiment-lexicon\n\n############### twitter ####################\n\nName: orlando james\nemail :guerilla@gmx.com\nusername : MinSocWeb\npwd :   MinSocWeb76\n\nConsumer Key (API Key) : uQwTXiYtKP116c6d4oXwqhPhv\nConsumer Secret (API Secret) : FCFEkdMcFNeABT0NExmYUndp8Iji6HiUSPwn4EcRGQfQeTSaWj\n\nAccess Token 871437181-Q8g5TEfiiL0tMp7Q7NPMFg0tjJ0Hgirx556ll9M3\nAccess Token Secret hGlJS6qntWrdLrdiYRTw2DupplvKAZRlK7aDEXTXsnvmP\nAccess Level Read and write\nOwner MinSocWeb\nOwner ID 871437181\n\n############################################\n\n## sweet vicious end credits song\n\nfind . -type f -regex '.*\\.\\(html\\|dat\\|svg\\|eot\\|ttf\\|woff\\|css\\|png\\|ico\\)' -delete\nfind . -type f -regex '.*\\.md' -delete\n\n\necho -e \"nameserver 192.168.9.1\\nsearch vodafonemobile.vmbvodafonemobile.apivodafonemobile.vmb\" | sudo tee /etc/resolv.conf\n\nJoin a channel and click the I next to the Disconnect button and click Debug > Local User, you should be able to see how much data you're transmitting.\n\n\n\n__________\nhttps://github.com/defunkt/hub\ngithub authentication token\ngit gui tools linux\ngeany plugins offline download\n\n~~~~~~~\n~~~~~~~\n~~~~~~~\n~~~~~~~\n\nEurostat\n\n- Economic Diamond data\n    Inflation,\n    Unemployment,\n    annual rise/decline of GDP,\n    long-term current account surplus/deficit\n\n- GDP vs GNP\n\n- circular flow model data :\n    income, consumption, investment, gov. expenditure, exports\n    savings, taxation, imports\n\n** Equilibrium in National Income -> Injections = Withdrawals **\n\n- EU refugee entry points dataset\n\n~~~~~~~~~~~\n~~~~~~~~~~~\n\nhttp://www.markdowntutorial.com/\n\nhttp://www.gwern.net/\n\nhttps://www.quantstart.com/articles\n\nhttp://www.zachtronics.com/\n\n~~~~~~~~~~~~\n\n##\n\n- matplotlib source dl to generate html documentation ?\n\n- PyMC Documentation - zipped html ~ already got pdf\n\n## Google -     Machine Learning Crash Course\nhttps://developers.google.com/machine-learning/crash-course/\n\n\n## Shoes\nAdidas Ultra Boost ST\nAdidas Supernova ST\nAdidas Adizero Adios 3\n\n\n##\n- trust.zone\n./fw_vpn.sh && echo -e \"nameserver 109.236.87.2\\nnameserver 144.217.75.55\" | sudo tee /etc/resolv.conf\n\n- DNS Watch\n./fw_vpn.sh && echo -e \"nameserver 84.200.69.80\\nnameserver 84.200.70.40\" | sudo tee /etc/resolv.conf\n\n- OpenNIC\n./fw_vpn.sh && echo -e \"nameserver 206.125.173.29\\nnameserver 45.32.230.225\" | sudo tee /etc/resolv.conf\n\n- UncensoredDNS\n./fw_vpn.sh && echo -e \"nameserver 91.239.100.100\\nnameserver 89.233.43.71\" | sudo tee /etc/resolv.conf\n\n##\n\n# megasync purge operations\nTo clear the mega client configuration must be eliminated.\n    sudo apt-get --purge remove megasync\nand then delete the configuration\n    rm -rf \"/home/<your_username>/.local/share/data/Mega Limited\"\n\n\n# palemoon clear cache operations\n\n# easy:\nrm ~/.moonchild\\ productions/pale\\ moon/*.default/*.sqlite-* && rm ~/.moonchild\\ productions/pale\\ moon/*.default/cookies.sqlite && rm ~/.moonchild\\ productions/pale\\ moon/*.default/sessionstore.js && rm -r  ~/.cache/moonchild\\ productions/pale\\ moon/*.default/*\n\n# thorough:\nrm ~/.moonchild\\ productions/pale\\ moon/*.default/*.sqlite-* && rm ~/.moonchild\\ productions/pale\\ moon/*.default/cookies.sqlite && rm ~/.moonchild\\ productions/pale\\ moon/*.default/formhistory.sqlite && rm ~/.moonchild\\ productions/pale\\ moon/*.default/places.sqlite && rm ~/.moonchild\\ productions/pale\\ moon/*.default/search.json && rm ~/.moonchild\\ productions/pale\\ moon/*.default/search-metadata.json && rm ~/.moonchild\\ productions/pale\\ moon/*.default/sessionstore.js && rm -r  ~/.cache/moonchild\\ productions/pale\\ moon/*.default/*\n\n\n\nhttp://nbviewer.jupyter.org/github/pybokeh/jupyter_notebooks/tree/master/\n\nhttp://videolectures.net/course_information_theory_pattern_recognition/\n\nPydata youtube channel :\nhttps://www.youtube.com/watch?v=rIofV14c0tc&list=PLGVZCDnMOq0qfJkoiFj-hN7lSHgQzXtqQ&index=32\n\n\nsignup for vodafone σύνδεση 6956309215\n\nhttp://www.vodafone.gr/portal/client/cms/viewCmsPage.action?pageId=8441\n\n# music\n- search blalock torrents # post2010 - www.blalocksirp.com\n\nfirefox - addons\n\neasy video downloader\nnoscript\nno squint plus\nscrapbook plus\nself-destructing cookies\nsimple youtube to mp3/mp4 converter\nublock origin\n\nRehydration solution:\n1 lt of water (+lemon juice, cinnamon)\n6 teaspoons of sugar\na half-teaspoon of salt.\n\n###\n\nFirst you have to add the backports to your system with the source.lists:\n\ndeb http://http.debian.net/debian jessie-backports main\n\nThen reload the repository cache with :\n\napt-get update\n\nFinally install the last alpha from official repositories using:\n\napt-get install -t jessie-backports 0ad\n\n###\nfor i in {23..26}; do pactl unload-module $i; done\npactl load-module module-null-sink sink_name=V1 && pactl load-module module-null-sink sink_name=V2 && pactl load-module module-loopback sink=V2 && pactl load-module module-loopback sink=V2\n\n",
+					"file": "/archive/Leisure/TODOs",
+					"file_size": 6783,
+					"file_write_time": 131777264760976087,
+					"settings":
+					{
+						"buffer_size": 6615,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/joao/.config/hexchat/misc/channels.txt",
+					"file": "/home/joao/.bash_history",
 					"settings":
 					{
-						"buffer_size": 928,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/joao/.config/hexchat/misc/irc_custom_cmds.txt",
-					"settings":
-					{
-						"buffer_size": 353,
+						"buffer_size": 13637,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -610,68 +591,135 @@
 			},
 			"file_history":
 			[
-				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch2-3.py",
-				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch4.py",
-				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch5.py",
-				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch6.py",
-				"/archive/Studies/Statistics/thinkStats2/code_usr/workbook_ch7.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_game.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/wheel.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/table.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/bet.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/game.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/non_rnd.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/wheel.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/table.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/game.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/non_random.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_simulator.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./roulette/test/test_wheel.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_player.py",
-				"/archive/Studies/Python/OOPy/Building_Skills_in_O.O./archive/ref/test_game.py",
-				"/archive/Leisure/irc/irc_custom_cmds.txt",
-				"/archive/boookMarks--bashBaks/2017.09.25_info.txt",
-				"/home/joao/.config/hexchat/addons/kara.txt",
-				"/home/joao/.config/hexchat/addons/baby_talk.txt",
-				"/home/joao/.config/hexchat/addons/sub_talk.txt",
-				"/archive/Leisure/irc/rolemodel.txt",
-				"/home/joao/.config/hexchat/addons/tts/tts_commands.md",
-				"/home/joao/.festivalrc",
-				"/home/joao/aplay_help.txt",
-				"/archive/Leisure/my-tts-linux.txt",
-				"/home/joao/.config/hexchat/addons/tts/README.md",
+				"/archive/Leisure/thinkpad-trackpoint-speed.md",
+				"/archive/Leisure/thinkpad-trackpoint-speed.mkd",
+				"/home/joao/.xsession-errors",
+				"/archive/Leisure/scripts/subsis/subsis.txt",
+				"/archive/Leisure/scripts/btm/btm.txt",
+				"/archive/Leisure/scripts/dadson/dadson.txt",
+				"/archive/Leisure/scripts/momson/momson.txt",
+				"/archive/Leisure/scripts/btm.txt",
+				"/archive/Leisure/vids/hexchat/misc/scripts/dadson.txt",
+				"/archive/Leisure/vids/hexchat/misc/scripts/momson.txt",
+				"/home/joao/bin/toggletouchpad.sh",
+				"/home/joao/.config/openbox/rc.xml",
+				"/archive/Distro_Setup/joao/.config/openbox/autostart",
+				"/home/joao/.config/openbox/autostart",
+				"/home/joao/.config/compton.conf",
+				"/home/joao/.config/terminator/config",
+				"/home/joao/.ssh/id_rsa.pub",
+				"/home/joao/.ssh.bak/known_hosts",
+				"/archive/Studies/Git/GitHub -- Up And Running/index.html",
+				"/archive/Studies/repos/distro_configs/i386/etc/default/grub",
+				"/home/joao/soloMonitor.sh",
+				"/archive/Distro_Setup/Langs_Kbd_settings/add greek fucntionality.txt",
+				"/archive/Distro_Setup/Langs_Kbd_settings/kbrd_layout/keyboard",
+				"/archive/Distro_Setup/Langs_Kbd_settings/kbrd_layout/keyboard.txt",
+				"/home/joao/.config/vlc/vlcrc",
+				"/archive/Distro_Setup/joao/.config/vlc/vlcrc",
+				"/home/joao/.ssh/known_hosts",
+				"/home/joao/.ssh/config",
+				"/home/joao/.config/hexchat/addons/webm.txt",
+				"/archive/Leisure/Anaconda3-5.2.0-Linux-x86_64.sh",
+				"/home/joao/.config/hexchat/misc/irc_custom_cmds.txt",
+				"/home/joao/.config/hexchat/logs/dalnet/#pornjackin.log",
+				"/home/joao/.config/hexchat/logs/xxxchatters/#pornjackers.log",
+				"/archive/Studies/repos/edX/programming-web-javascript-pennx-sd4x/2-js/2.8-click.html",
+				"/archive/Studies/repos/edX/programming-web-javascript-pennx-sd4x/3-jQuery/2.11-jquery-form.html",
+				"/archive/Studies/repos/edX/programming-web-javascript-pennx-sd4x/3-jQuery/2.9-jquery-list.html",
+				"/home/joao/.config/hexchat/addons/hotcockworship.txt",
+				"/home/joao/.config/hexchat/addons/anjelica.txt",
+				"/home/joao/.config/hexchat/addons/bondage.txt",
+				"/home/joao/.config/hexchat/addons/roughstuff.txt",
+				"/home/joao/.config/hexchat/addons/anal.txt",
+				"/home/joao/.config/hexchat/addons/lana.txt",
+				"/home/joao/.config/hexchat/logs/dalnet/copy of #pornjackin.log",
+				"/home/joao/.config/hexchat/logs/xxxchatters/copy of #pornjackers.log",
+				"/archive/Studies/repos/copy of intro_to_C/GE_3/testFile.c",
+				"/archive/Studies/repos/copy of intro_to_C/GE_3/ge3_1B.c",
+				"/archive/Studies/repos/copy of intro_to_C/GE_3/ge3_1D.c",
+				"/archive/Studies/repos/intro_to_C/README.md",
+				"/archive/Studies/repos/facebook_login.py",
+				"/home/joao/.config/hexchat/logs/xxxchatters/||damian.log",
+				"/home/joao/.config/hexchat/logs/xxxchatters/blondefucktoy.log",
+				"/home/joao/.config/hexchat/logs/xxxchatters/bend_over.log",
+				"/home/joao/.config/hexchat/logs/undernet/ferranbcn.log",
+				"/home/joao/.config/hexchat/logs/undernet/goodfun.log",
+				"/home/joao/.config/hexchat/logs/undernet/venusandmars.log",
+				"/home/joao/.config/hexchat/logs/xxxchatters/sissydanny21.log",
+				"/home/joao/.config/hexchat/logs/xxxchatters/shades.log",
+				"/home/joao/.config/hexchat/logs/undernet/steve65m.log",
+				"/home/joao/.config/hexchat/logs/undernet/housesitter.log",
+				"/home/joao/.config/hexchat/logs/undernet/mrbigd~.log",
+				"/home/joao/.config/hexchat/logs/undernet/analaddict34.log",
+				"/home/joao/.config/hexchat/logs/undernet/nj0044guy.log",
+				"/home/joao/.config/hexchat/logs/undernet/english-bull.log",
+				"/home/joao/.config/hexchat/logs/undernet/hornytop36.log",
+				"/home/joao/.config/hexchat/logs/undernet/robert123-.log",
+				"/home/joao/.config/hexchat/logs/undernet/fitnsxycd.log",
+				"/home/joao/.config/hexchat/logs/undernet/nonstop_hard.log",
+				"/home/joao/.config/hexchat/logs/undernet/wannabekept.log",
+				"/home/joao/.config/hexchat/logs/undernet/tophardmale_.log",
+				"/home/joao/.config/hexchat/logs/undernet/sirrjay.log",
+				"/home/joao/.config/hexchat/logs/undernet/ridemy8thick.log",
+				"/home/joao/.config/hexchat/logs/undernet/kurt_xo.log",
+				"/home/joao/.config/hexchat/logs/undernet/bigbulge.log",
+				"/home/joao/.config/hexchat/logs/undernet/jockthick7in.log",
+				"/home/joao/.config/hexchat/logs/undernet/travis18.log",
+				"/home/joao/.config/hexchat/logs/undernet/ryannchair.log",
+				"/home/joao/.config/hexchat/logs/undernet/alex31.log",
+				"/home/joao/.config/hexchat/logs/undernet/wylbur{ll}.log",
+				"/home/joao/.config/hexchat/logs/undernet/rhaoul.log",
+				"/home/joao/.config/hexchat/logs/undernet/hardpounder.log",
+				"/home/joao/.config/hexchat/logs/undernet/ozguy4u.log",
+				"/home/joao/.config/hexchat/logs/undernet/nastyfucker.log",
+				"/home/joao/.config/hexchat/logs/undernet/kaggelo.log",
+				"/home/joao/.config/hexchat/logs/undernet/hornba1l.log",
+				"/home/joao/.config/hexchat/logs/undernet/bucknasty.log",
+				"/home/joao/.config/hexchat/logs/undernet/usemehard.log",
+				"/home/joao/.config/hexchat/logs/undernet/thickcock35.log",
+				"/home/joao/.config/hexchat/logs/undernet/yasser.log",
+				"/archive/Studies/repos/edX/programming-web-javascript-pennx-sd4x/2-js/hw2/petstore.js",
+				"/archive/Studies/repos/edX/programming-web-javascript-pennx-sd4x/1-html/calendar.html",
+				"/home/joao/.config/hexchat/addons/femboi_tts.txt",
+				"/archive/Leisure/TODOs",
+				"/home/joao/.config/hexchat/logs/dalnet/hard4milfs26yo.log",
+				"/home/joao/.config/hexchat/addons/eva-lust.txt",
+				"/home/joao/.config/hexchat/misc/scripts/alethia_.txt",
+				"/home/joao/.config/hexchat/misc/rolemodel.txt",
 				"/home/joao/.config/hexchat/addons/autolink.py",
-				"/archive/Leisure/irc/chats/bunnyboycd.log",
-				"/home/joao/.config/hexchat/addons/sonia.txt",
-				"/archive/xXx/chat_links/cassidyKlein/cassidy.txt",
-				"/home/joao/.config/hexchat/addons/waiting.txt",
-				"/home/joao/.config/hexchat/addons/use_me.txt",
-				"/home/joao/.config/hexchat/addons/sis.txt",
-				"/home/joao/.config/hexchat/addons/sissy.txt",
-				"/archive/xXx/spicy/cassidyKlein/cassidy.txt",
-				"/home/joao/.config/hexchat/addons/cassidy.txt",
-				"/archive/xXx/spicy/cassidyKlein/temp.txt",
-				"/home/joao/.config/hexchat/addons/deluxe.txt",
-				"/archive/Leisure/irc/scripts/deluxe.txt",
-				"/archive/Leisure/irc/scripts/fem_talk.txt",
-				"/archive/Leisure/vids/sissy_links.txt",
-				"/archive/Leisure/irc/chats/haamid.log",
-				"/archive/Leisure/irc_custom_cmds.txt",
-				"/home/joao/.config/hexchat/addons/dom_talk.txt",
-				"/home/joao/.config/hexchat/addons/lez.txt",
-				"/home/joao/.config/hexchat/addons/dom_lez.txt",
-				"/archive/Leisure/irc/scripts/url_links.txt",
-				"/archive/Studies/Python/scripts/hello.py"
+				"/home/joao/.config/hexchat/misc/scripts/boibtm.txt",
+				"/home/joao/.config/hexchat/misc/scripts/btm.txt",
+				"/home/joao/.config/hexchat/misc/scripts/blkbtm.txt",
+				"/home/joao/.config/hexchat/misc/scripts/eva_.txt",
+				"/home/joao/.config/hexchat/addons/eva_.txt",
+				"/home/joao/.config/hexchat/misc/scripts/facial.txt",
+				"/home/joao/.config/hexchat/addons/twoOnOne.txt",
+				"/home/joao/.config/hexchat/addons/facecock.txt",
+				"/home/joao/.config/hexchat/misc/scripts/godesses/share.txt",
+				"/home/joao/.config/hexchat.native/addons/specimen.txt",
+				"/home/joao/.config/hexchat/addons/bbc.txt",
+				"/home/joao/.config/hexchat/addons/bbcBffs.txt",
+				"/home/joao/.config/hexchat/addons/twoOntwo.txt",
+				"/home/joao/.config/hexchat.native/addons/autolink.py",
+				"/home/joao/.config/hexchat.native/addons/babecock0.txt",
+				"/home/joao/.config/hexchat.native/addons/bbcBffs.txt",
+				"/home/joao/.config/hexchat.native/addons/babecock.txt",
+				"/home/joao/.config/hexchat.native/addons/team_sissy.txt",
+				"/home/joao/.config/hexchat.native/addons/sh2sh.txt",
+				"/home/joao/.config/hexchat/misc/scripts/godesses/facecock.txt",
+				"/home/joao/.config/hexchat/misc/scripts/cecilia/cecilia.txt",
+				"/home/joao/.config/hexchat.native/hexchat.conf",
+				"/media/joao/ELEMENTS/arch/sheT/cats.txt",
+				"/home/joao/.config/hexchat/logs/xxxchatters/domguy.log",
+				"/archive/Leisure/youtube-dl",
+				"/home/joao/.config/hexchat/addons/oral.txt",
+				"/home/joao/.config/hexchat/addons/worship.txt",
+				"/home/joao/.config/hexchat.bak/servlist.conf.cleanbak"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 42.0
 			},
 			"find_in_files":
 			{
@@ -685,6 +733,73 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"WgoSfdradJ",
+					"onlyOnce_forever",
+					"CAQW",
+					"WE12sexnD2LM",
+					"www",
+					"fap",
+					".com",
+					"LinearPerfectAmericanindianhorse",
+					"find",
+					"betterfap",
+					"https://images.sex.com",
+					".+\\.jpg\\n",
+					"<gay420>.+\\n",
+					".+\\.gif\\n",
+					".+\\.jpg\\n",
+					"<JackinBOT>.+\\n",
+					".+\\.webm+\\n",
+					".+gfycat.+\\n",
+					"\\.mp4",
+					"http://www.sex.com/pin",
+					"cum",
+					"sex\\.com",
+					"gfycat",
+					"btm",
+					"callbackBT",
+					"deepcock",
+					"callbackDC",
+					".+srvcs.+\\n",
+					".+avatar.+\\n",
+					".+srvcs.+\\n",
+					".+avatar.+\\n",
+					"Super123Deer456Lover789",
+					"callbackDC",
+					"bbc",
+					"sh2",
+					"'cu",
+					"cudd",
+					"txt",
+					"ride",
+					"408",
+					"https://thumb-p0.xhcdn.com/000/106/417/900_1000.gif",
+					"2jk1",
+					"areweelectric",
+					"onlyOnce_forever",
+					"areweelectric",
+					"destroy",
+					"areweelectric",
+					"media\\\\(\\w+)\\\\(\\w+)",
+					"media\\\\\\\\(Ms\\. \\w+)\\\\\\\\(\\w+)",
+					"media\\\\(\\w+)\\\\(\\w+)",
+					"media\\\\(\\w+)\\\\(\\w+)\\\\(\\w+)",
+					"images",
+					"media\\\\\\\\(\\w+)\\\\\\\\(\\w+)",
+					"media\\\\\\\\(\\w+)\\\\\\\\(\\w+)\\\\\\\\(\\w+)",
+					"shayouless",
+					"java",
+					"set",
+					"back",
+					"Super123Deer456Lover789",
+					"/archive/Studies/iPyNotebooks/",
+					"SimpleHTTPServer",
+					"pulse",
+					"python -m",
+					"vboxmanage",
+					"activate",
+					"upda",
+					"xra",
 					"p57",
 					"wheel",
 					"table",
@@ -745,53 +860,7 @@
 					"dick",
 					"daddy",
 					"cock",
-					"dick",
-					"daddy",
-					"callbackdom_Lez",
-					"Lez",
-					"callbackFTLK",
-					"arg",
-					"self",
-					"Putnam",
-					"[\\w &]?Putnam[\\w ]+",
-					"[\\w ]?Putnam[\\w ]+",
-					"Child",
-					", ",
-					",\\d{2},",
-					",\\d{1},",
-					"unknow",
-					"1994",
-					",0,",
-					"audio",
-					"The House on Hope Street",
-					"audio",
-					",,",
-					"Mermaid Chair",
-					"[^\"]\\[",
-					"[]",
-					",\\d{2},",
-					",,",
-					"Ridley Pearson",
-					"rowling",
-					"383606",
-					"robert",
-					"J. D. Robb",
-					"17065",
-					"roberts",
-					"latin-1",
-					"csv/",
-					"link",
-					"latin-1",
-					"'csv/",
-					"to_dict",
-					" and",
-					" and ",
-					",,",
-					" and \\w+,",
-					" and ,",
-					"J. K. Rowling,,",
-					"16700368",
-					",,"
+					"dick"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -799,6 +868,13 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					"media/\\1/\\2",
+					"media/\\1/\\2/\\3",
+					"media/\\1/\\2",
+					"media/\\1/\\2/\\3",
+					"shameless",
+					"/archive/Studies/Python/iPyNotebooks",
 					"s",
 					"cock",
 					"",
@@ -834,80 +910,24 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/joao/.config/hexchat/misc/rolemodel.txt",
+							"file": "/archive/boookMarks--bashBaks/2018.05.13_info.txt",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8489,
+								"buffer_size": 4967,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										8294,
-										8294
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 3198.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/joao/.config/hexchat/misc/channels.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 928,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										418,
-										418
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/joao/.config/hexchat/misc/irc_custom_cmds.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 353,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										215,
-										215
+										0,
+										0
 									]
 								],
 								"settings":
@@ -920,13 +940,69 @@
 							},
 							"stack_index": 2,
 							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/archive/Leisure/TODOs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/joao/.bash_history",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13637,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										615,
+										615
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -957,18 +1033,18 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 462.0
+				"height": 246.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/User/python3.sublime-build",
+			"pinned_build_system": "",
 			"position": "0,0,0,0,0,800,4,1598,898,1600,900",
 			"project": "",
 			"replace":
 			{
-				"height": 68.0
+				"height": 76.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1003,9 +1079,9 @@
 			{
 			},
 			"show_minimap": false,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":

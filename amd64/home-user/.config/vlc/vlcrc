@@ -1036,7 +1036,7 @@ qt-privacy-ask=0
 [alsa] # ALSA audio output
 
 # Audio output device (string)
-alsa-audio-device=pulse
+alsa-audio-device=default
 
 # Audio output channels (integer)
 #alsa-audio-channels=6
@@ -3094,10 +3094,10 @@ transform-type=270
 [adjust] # Image properties filter
 
 # Image contrast (0-2) (float)
-contrast=1.120000
+contrast=1.220000
 
 # Image brightness (0-2) (float)
-brightness=1.060000
+brightness=1.100000
 
 # Image hue (0-360) (integer)
 hue=360

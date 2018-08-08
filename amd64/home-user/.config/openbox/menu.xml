@@ -5,6 +5,37 @@
         xsi:schemaLocation="http://openbox.org/
                 file:///usr/share/openbox/menu.xsd">
 
+    <menu id="exit-menu" label="Exit">
+        <item label="Log out">
+            <action name="Execute">
+                <command>
+                    bl-exit --logout
+                </command>
+            </action>
+        </item>
+        <item label="Suspend">
+            <action name="Execute">
+                <command>
+                    bl-exit --suspend
+                </command>
+            </action>
+        </item>
+        <item label="Reboot">
+            <action name="Execute">
+                <command>
+                    bl-exit --reboot
+                </command>
+            </action>
+        </item>
+        <item label="Power off">
+            <action name="Execute">
+                <command>
+                    bl-exit --poweroff
+                </command>
+            </action>
+        </item>
+    </menu>
+
     <menu id="root-menu" label="Openbox 3">
         <item label="Run Program">
             <action name="Execute">
@@ -70,6 +101,13 @@
                     <command>x-terminal-emulator -T 'htop task manager' -e htop</command>
                 </action>
             </item>
+            <item label="System Information (hardinfo)">
+                <action name="Execute">
+                    <command>
+                        hardinfo
+                    </command>
+                </action>
+            </item>
         </menu>
         <menu execute="bl-graphics-pipemenu" id="bl-graphics-pipemenu" label="Graphics"/>
         <menu execute="bl-multimedia-pipemenu" id="bl-multimedia-pipemenu" label="Multimedia"/>
@@ -105,18 +143,13 @@
             </item>
             <menu execute="bl-remote-desktop-pipemenu" id="remotedesktop" label="Remote Desktop"/>
             <menu execute="bl-sshconfig-pipemenu" id="sshconfig" label="SSH"/>
+<!--
             <separator label="Services"/>
             <menu execute="bl-dropbox-pipemenu" id="dropbox" label="Dropbox"/>
+-->
         </menu>
         <menu id="office" label="Office">
             <menu id="libreoffice" label="LibreOffice" execute="bl-libreoffice-pipemenu" />
-            <item label="Google Docs">
-                <action name="Execute">
-                    <command>
-                        x-www-browser https://drive.google.com/
-                    </command>
-                </action>
-            </item>
             <item label="Gnumeric Spreadsheet">
                 <action name="Execute">
                     <command>
@@ -167,14 +200,14 @@
                     </action>
                 </item>
                 <separator/>
-                <item label="GUI Menu Editor">
+                <item label="Menu Editor">
                     <action name="Execute">
                         <command>
                             obmenu
                         </command>
                     </action>
                 </item>
-                <item label="GUI Config Tool">
+                <item label="WM Preferences">
                     <action name="Execute">
                         <command>
                             obconf
@@ -183,7 +216,9 @@
                 </item>
                 <item label="How to Edit Menu">
                     <action name="Execute">
-                        <execute>zenity --text-info --title=&quot;How to Edit the Menu&quot; --filename=&quot;/usr/share/bunsen/bunsen-docs/helpfile-menu.txt&quot; --width=900 --height=700</execute>
+                        <command>
+                            yad --button="OK":0 --center --window-icon=distributor-logo-bunsenlabs --text-info --title=&quot;How to Edit the Menu&quot; --filename=&quot;/usr/share/bunsen/docs/helpfile-menu.txt&quot; --width=900 --height=700 --fontname=Monospace
+                        </command>
                     </action>
                 </item>
                 <separator/>
@@ -204,7 +239,21 @@
                     </command>
                 </action>
             </item>
-            <item label="Choose Wallpaper">
+            <item label="Font configuration">
+                <action name="Execute">
+                    <command>
+                        bl-text-editor ~/.config/fontconfig/fonts.conf
+                    </command>
+                </action>
+            </item>
+            <item label="BLOB Themes Manager">
+                <action name="Execute">
+                    <command>
+                        bl-obthemes
+                    </command>
+                </action>
+            </item>
+            <item label="Wallpaper">
                 <action name="Execute">
                     <command>
                         nitrogen
@@ -231,7 +280,7 @@
                         </command>
                     </action>
                 </item>
-                <separator label="Help?"/>
+                <separator label="Help"/>
                 <item label="man page">
                     <action name="Execute">
                         <command>
@@ -248,7 +297,7 @@
                         </command>
                     </action>
                 </item>
-                <separator label="Help?"/>
+                <separator label="Help"/>
                 <item label="man page">
                     <action name="Execute">
                         <command>
@@ -265,7 +314,7 @@
                         </command>
                     </action>
                 </item>
-                <separator label="Help?"/>
+                <separator label="Help"/>
                 <item label="man xrandr">
                     <action name="Execute">
                         <command>
@@ -280,54 +329,41 @@
             <item label="Synaptic Package Manager">
                 <action name="Execute">
                     <command>
-                        gksudo synaptic
-                    </command>
-                </action>
-            </item>
-            <item label="File Manager as root">
-                <action name="Execute">
-                    <command>
-                        gksudo bl-file-manager
-                    </command>
-                </action>
-            </item>
-            <item label="Text Editor as root">
-                <action name="Execute">
-                    <command>
-                        gksudo bl-text-editor
+                        pkexec synaptic
                     </command>
                 </action>
             </item>
             <item label="Login Settings">
                 <action name="Execute">
                     <command>
-                        gksudo bl-text-editor /etc/lightdm/lightdm-gtk-greeter.conf /etc/lightdm/lightdm.conf
+                        pkexec bl-text-editor /etc/lightdm/lightdm-gtk-greeter.conf /etc/lightdm/lightdm.conf
                     </command>
                 </action>
             </item>
             <item label="GParted">
                 <action name="Execute">
                     <command>
-                        gksudo gparted
+                        pkexec gparted
                     </command>
                 </action>
             </item>
             <item label="Edit Debian Alternatives">
                 <action name="Execute">
                     <command>
-                        gksudo galternatives
+                        galternatives
                     </command>
                 </action>
             </item>
             <separator/>
             <item label="About Bunsen Alternatives">
                 <action name="Execute">
-                    <execute>zenity --text-info --title=&quot;About Bunsen Alternatives&quot; --filename=&quot;/usr/share/bunsen/bunsen-docs/helpfile-bl-alternatives.txt&quot; --width=900 --height=700</execute>
+                    <execute>yad --button="OK":0 --center --window-icon=distributor-logo-bunsenlabs --text-info --title=&quot;About Bunsen Alternatives&quot; --filename=&quot;/usr/share/bunsen/docs/helpfile-bl-alternatives.txt&quot; --width=900 --height=700 --fontname=Monospace
+                    </execute>
                 </action>
             </item>
         </menu>
-        <menu id="help" label="Help" execute="bl-help-pipemenu" />
         <separator/>
+        <menu id="help" label="Help &amp; Resources" execute="bl-help-pipemenu" />
         <menu execute="bl-kb-pipemenu" id="keybinds" label="Display Keybinds"/>
         <separator/>
         <item label="Lock Screen">
@@ -344,5 +380,11 @@
                 </command>
             </action>
         </item>
+<!-- comment out or remove the preceding "Exit" item,
+and uncomment the following "exit-menu"
+for one-click exit options. -->
+<!--
+        <menu id="exit-menu"></menu>
+-->
     </menu>
 </openbox_menu>
