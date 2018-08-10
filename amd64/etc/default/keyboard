@@ -1,0 +1,24 @@
+# KEYBOARD CONFIGURATION FILE 
+
+# to be placed in etc/default/
+
+# Consult the keyboard(5) manual page.
+
+XKBMODEL="pc105"
+XKBLAYOUT="gb,gr"
+XKBVARIANT="extd,extended"
+
+# Numpad keys always enter digits,
+#
+# Right Alt key never chooses 3rd level,
+# scroll LED to show alternative layout
+ 
+XKBOPTIONS="numpad:mac,lv3:ralt_alt,grp:ralt_rshift_toggle,grp_led:scroll"
+
+# trying the example from man keyboard
+#XKBOPTIONS="grp:toggle,grp_led:scroll"
+
+#below is the classic one  
+#XKBOPTIONS="grp:alt_shift_toggle"
+
+BACKSPACE="guess"
