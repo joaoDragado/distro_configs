@@ -1,0 +1,4 @@
+
+init_printing(use_latex='mathjax')
+ OR
+init_printing(use_latex='matplotlib') 

@@ -1,0 +1,120 @@
+######################################################
+##  Command Mode (press Escape /Ctrl + M to enable) ##
+######################################################
+
+F					        : find and replace
+Ctrl + Shift + P			: open the command palette
+
+Shift + Enter				: run cell, select below
+Ctrl + Enter				: run selected cells
+Alt + Enter					: run cell, insert below
+
+Y					: to code
+M					: to markdown
+R					: to raw
+1					: to heading 1
+2					: to heading 2
+3					: to heading 3
+4					: to heading 4
+5					: to heading 5
+6					: to heading 6
+
+Up					        : select cell above
+Down				        : select cell below
+
+Shift + Up					: extend selected cells above
+Shift + Down				: extend selected cells below
+
+A					        : insert cell above
+B			        		: insert cell below
+X					        : cut cell
+C					        : copy cell
+Shift + V					: paste cell above
+V					        : paste cell below
+Z					        : undo cell deletion
+D,D		        			: delete selected cell
+
+Shift + M					: merge selected cells or current
+                              cell with cell below 
+                              if only 1 cell selected
+
+Ctrl + S					: Save and Checkpoint
+S		        			: Save and Checkpoint
+
+L				        	: toggle line numbers
+O					        : toggle output of selected cells
+Shift + O					: toggle output scrolling of
+                              selected cells
+
+H					        : show keyboard shortcuts
+
+I,I     					: interrupt kernel
+0,0			        		: restart the kernel (with dialog)
+Esc		    		    	: close the pager
+Q       					: close the pager
+
+
+##########################################
+##  Edit Mode (press Enter to enable)   ##
+##########################################
+
+Tab			        		: code completion or indent
+Shift + Tab					: tooltip
+
+
+Ctrl + A					: select all
+
+Ctrl + Z					: undo
+Ctrl + Shift + Z			: redo
+
+Ctrl + Home					: go to cell start
+Ctrl + End					: go to cell end
+Ctrl + Left					: go one word left
+Ctrl + Right				: go one word right
+
+Ctrl + Backspace	    	: delete word before
+Ctrl + Delete				: delete word after
+
+Ctrl + Shift + P			: open the command palette
+Esc					        : command mode
+
+Ctrl + Shift +  +			: split cell
+Ctrl + Shift + Subtract		: split cell
+
+Down					    : move cursor down
+Up					        : move cursor up
+
+ctrl + /					: toggleComment
+
+Ctrl + ]					: indent
+Ctrl + [					: dedent
+Shift + ctrl + [			: fold
+Shift + ctrl + ]			: unfold
+Alt + ctrl + j				: unfoldAll
+
+ctrl + D					: selectNextOccurrence
+
+Shift + Alt + Up			: selectLinesUpward
+Shift + Alt + Down			: selectLinesDownward
+
+ctrl + L					: selectLine
+Shift + ctrl + L			: splitSelectionByLine
+ctrl + J					: joinLines
+
+Shift + ctrl + K			: deleteLine
+Shift + ctrl + D			: duplicateLine
+Shift + Ctrl + Up			: swapLineUp
+Shift + Ctrl + Down			: swapLineDown
+
+F9					        : sortLines
+ctrl + F9					: sortLinesInsensitive
+
+F3					        : findNext
+Shift + F3					: findPrev
+Alt + Shift + F3		    : replace
+
+Shift + ctrl + Space		: selectScope
+Shift + ctrl + M			: selectBetweenBrackets
+ctrl + M					: goToBracket
+
+ctrl + T					: transposeChars
