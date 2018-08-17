@@ -539,6 +539,15 @@
         <command>x-www-browser</command>
       </action>
     </keybind>
+    <keybind key="W-g">
+      <action name="Execute">
+        <startupnotify>
+          <enabled>false</enabled>
+          <name>Chromium Browser</name>
+        </startupnotify>
+        <command>chromium --single-process</command>
+      </action>
+    </keybind>
     <keybind key="W-l">
       <action name="Execute">
         <startupnotify>
