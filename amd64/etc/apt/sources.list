@@ -1,0 +1,15 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux 9.4 _Helium_ - Snapshot amd64 LIVE/INSTALL Binary 20180428-16:59]/ stretch contrib main non-free
+
+#deb cdrom:[Debian GNU/Linux 9.4 _Helium_ - Snapshot amd64 LIVE/INSTALL Binary 20180428-16:59]/ stretch contrib main non-free
+
+deb https://deb.debian.org/debian stretch main non-free contrib
+# deb-src https://deb.debian.org/debian stretch main non-free contrib
+
+## Debian security updates
+deb https://deb.debian.org/debian-security stretch/updates main contrib non-free
+
+# stretch-updates, previously known as 'volatile'
+deb https://deb.debian.org/debian stretch-updates main contrib non-free
+# deb-src https://deb.debian.org/debian stretch-updates main contrib non-free
