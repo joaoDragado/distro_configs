@@ -1,1 +1,0 @@
-/home/joao/.screenlayout/soloMonitor.sh
