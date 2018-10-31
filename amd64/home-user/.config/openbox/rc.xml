@@ -40,7 +40,7 @@
                     'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Beam</name>
+    <name>Bunsen-He</name>
     <titleLayout>LIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -545,10 +545,10 @@
           <enabled>false</enabled>
           <name>Chromium Browser</name>
         </startupnotify>
-        <command>chromium --single-process</command>
+        <command>chromium</command>
       </action>
     </keybind>
-    <keybind key="W-l">
+    <keybind key="W-Escape">
       <action name="Execute">
         <startupnotify>
           <enabled>false</enabled>
@@ -618,7 +618,7 @@
         <command>bl-exit</command>
       </action>
     </keybind>
-    <keybind key="W-Escape">
+    <keybind key="W-k">
       <action name="Execute">
         <startupnotify>
           <enabled>false</enabled>
