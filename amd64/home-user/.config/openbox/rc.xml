@@ -136,7 +136,7 @@
   </desktops>
   <resize>
     <drawContents>yes</drawContents>
-    <popupShow>Nonpixel</popupShow>
+    <popupShow>Never</popupShow>
     <!-- 'Always', 'Never', or 'Nonpixel' (xterms and such) -->
     <popupPosition>Center</popupPosition>
     <!-- 'Center' or 'Top' -->
@@ -165,7 +165,7 @@
     <!-- (Top|Bottom)(Left|Right|)|Top|Bottom|Left|Right|Floating -->
     <floatingX>0</floatingX>
     <floatingY>0</floatingY>
-    <noStrut>no</noStrut>
+    <noStrut>yes</noStrut>
     <stacking>Below</stacking>
     <!-- 'Above', 'Normal', or 'Below' -->
     <direction>Vertical</direction>
@@ -236,6 +236,16 @@
       <!-- changes by brontosaurusrex, inspired by
 	  http://urukrama.wordpress.com/2011/10/30/manual-tiling-in-openbox/ -->
       <!-- super + a & normal numerals -->
+      <!-- golden big top left -->
+      <keybind key="c">
+        <action name="UnmaximizeFull"/>
+        <action name="MoveResizeTo">
+          <x>20%</x>
+          <y>20%</y>
+          <width>60%</width>
+          <height>60%</height>
+        </action>
+      </keybind>
       <!-- golden big top left -->
       <keybind key="1">
         <action name="UnmaximizeFull"/>
