@@ -131,11 +131,14 @@ man() {
 # added by Anaconda2 2.4.1 installer
 #export PATH="/archive/Studies/anaconda2/bin:$PATH"
 
-# added by Anaconda3 4.4.0 installer
+# added by Anaconda3 5.3.2 installer
 export PATH="/archive/Studies/anaconda3/bin:$PATH"
 
-# added for node.js
+# added for node.js & its modules (react, ...)
 export PATH="$HOME/opt/nodeJS/bin:$PATH"
+
+# added for MongoDB binaries
+export PATH="$HOME/opt/mongodb-4.0.4/bin:$PATH"
 
 # git bash completion script
 . ~/bin/git-completion.bash
@@ -146,7 +149,5 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 export PS1='\w$(__git_ps1 " (%s)")\$ '
 
 # Twitter API credentials
-TWITTER_API_KEY=''
-TWITTER_API_SECRET=''
-
-
+TWITTER_API_KEY='uQwTXiYtKP116c6d4oXwqhPhv'
+TWITTER_API_SECRET='FCFEkdMcFNeABT0NExmYUndp8Iji6HiUSPwn4EcRGQfQeTSaWj'
