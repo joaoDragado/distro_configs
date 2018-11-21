@@ -6,7 +6,7 @@ mainly to be overridden in profile/static/custom/custom.css
 This will always be an empty file in IPython
 */
 
-/* This is the default style ; reset after experimenting */ 
+/* This is the default style ; reset after experimenting */
 
 div#site{
     height: 100% !important;
@@ -18,8 +18,8 @@ div#site{
 /*Sherif's customizations*/
 
 /*Otherwise, a lot of backgrounds are white.*/
-div#notebook {background-color: #E0E0E0; border-top: none;}
-div#notebook-container {background-color: #E0E0E0;}
+div#notebook {background-color: #cccccc border-top: none;}
+div#notebook-container {background-color: #cccccc}
 
 /*Don't need to see jupyter logo, filename, last saved, etc.*/
 div#header-container { display: none; }
@@ -42,7 +42,7 @@ div.output.output_scroll {
     background: #40484b;
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-	background: #40484b; 
+	background: #40484b;
 }
 
 
@@ -50,7 +50,7 @@ div.output.output_scroll {
 
 
 /* GLOBALS */
-body {background-color: #E0E0E0;}
+body {background-color: #cccccc}
 a {color: #858585;}
 
 /* INTRO PAGE */
@@ -78,7 +78,11 @@ span.ansipurple {color: #800080;}
 span.ansired {color: #CA2053;}
 span.ansiyellow {color: #A18400;}
 
-.cm-s-ipython.CodeMirror {background: #E0E0E0; color: #393939;}
+.cm-s-ipython.CodeMirror {background: #cccccc color: #393939;}
+.cm-s-ipython .CodeMirror-code {background: #d0d0d0 !important; }
+.cm-s-ipython .CodeMirror-lines {background: #d0d0d0 !important; }
+
+.cm-s-ipython .CodeMirror-matchingbracket { text-decoration: bold; color: #FF0015 !important;}
 
 
 .cm-s-ipython span.cm-comment {color: #8B6914;}
@@ -92,7 +96,7 @@ span.ansiyellow {color: #A18400;}
 div.output_stderr {background-color: #008000;}
 div.output_stderr pre {color: #a5a5a5;}
 
-/* 
+/*
 .cm-s-ipython span.cm-variable {color: #690A18;}
 .cm-s-ipython span.cm-variable-2 {color: #B82C36;}
 
@@ -108,6 +112,3 @@ div.output_stderr pre {color: #a5a5a5;}
 .cm-s-ipython span.cm-bracket {color: #3D3D3D;}
 .cm-s-ipython span.cm-link {color: #0000ff;}
 
-
-.cm-s-ipython .CodeMirror-matchingbracket { text-decoration: bold; color: #FF0015 !important;}
-    
