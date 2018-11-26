@@ -95,6 +95,21 @@ require(["codemirror/keymap/sublime", "notebook/js/cell", "base/js/namespace"],
             cells[c].code_mirror.setOption('keyMap', 'sublime');
         }
 
-        // }, 1000)// uncomment  line to fake race condition 
-    } 
+        // }, 1000)// uncomment  line to fake race condition
+    }
 );
+
+
+// hide/show code cells by clicking on the input label (In [dd]: )
+setTimeout(function() {
+  $("<style type='text/css'> .cell.code_cell.collapse { max-height:32px; overflow:hidden;} </style>").appendTo("head");
+  $('.prompt.input_prompt').on('click', function(event) {
+    console.log("CLICKED", arguments)
+    var c = $(event.target.closest('.cell.code_cell'))
+    if(c.hasClass('collapse')) {
+        c.removeClass('collapse');
+    } else {
+        c.addClass('collapse');
+    }
+  });
+}, 3000);
