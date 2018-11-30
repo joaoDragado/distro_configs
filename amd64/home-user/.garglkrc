@@ -20,11 +20,11 @@
 # either the interpreter or game file being run. See the bottom
 # of this file for examples.
 
-scrollwidth   20               # set to 8 to make a nice scrollbar
+scrollwidth   8               # set to 8 to make a nice scrollbar
 scrollbg      e0e0d0
 scrollfg      c0c0b0
 
-stylehint     1               # set this to 0 if the game uses really bad colors
+stylehint     0               # set this to 0 if the game uses really bad colors
 
 cols          80              # nice good line length for reading. but...
 rows          24              # see the bottom for terp-specific over-rides
@@ -58,17 +58,17 @@ propb         CharterBT-Bold
 propi         CharterBT-Italic
 propz         CharterBT-BoldItalic
 
-wmarginx      300              # space around the window frame
+wmarginx      20              # space around the window frame
 wmarginy      20
 wpaddingx     0               # space between windows
 wpaddingy     0
 wborderx      0               # border line width between windows
 wbordery      0
-tmarginx      7               # internal margin of text windows
-tmarginy      7
+tmarginx      5               # internal margin of text windows
+tmarginy      5
 
 propsize      20            # Proportional font size
-monosize      18            # Monospaced tend to be bigger -- compensate
+monosize      15            # Monospaced tend to be bigger -- compensate
 leading       30              # Also known as linespacing
 baseline      20              # Offset from top of line to baseline
 
