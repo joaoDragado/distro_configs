@@ -81,7 +81,7 @@ span.ansiyellow {color: #A18400;}
 .cm-s-ipython.CodeMirror {background: #cccccc color: #393939;}
 .cm-s-ipython .CodeMirror-code {background: #d0d0d0 !important; }
 .cm-s-ipython .CodeMirror-lines {background: #d0d0d0 !important; }
-
+.cm-s-ipython div.CodeMirror-selected {background: #DD99D5 !important;}
 .cm-s-ipython .CodeMirror-matchingbracket { text-decoration: bold; color: #FF0015 !important;}
 
 
