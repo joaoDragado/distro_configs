@@ -149,5 +149,5 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 export PS1='\w$(__git_ps1 " (%s)")\$ '
 
 # Twitter API credentials
-TWITTER_API_KEY='uQwTXiYtKP116c6d4oXwqhPhv'
-TWITTER_API_SECRET='FCFEkdMcFNeABT0NExmYUndp8Iji6HiUSPwn4EcRGQfQeTSaWj'
+TWITTER_API_KEY=''
+TWITTER_API_SECRET=''
