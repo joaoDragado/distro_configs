@@ -46,6 +46,7 @@ div.output.output_scroll {
 }
 
 
+
 /*########################*/
 
 
@@ -65,10 +66,26 @@ div.input_area {
   color: #3B3B3B;
 }
 
+/* smaller pager buttons*/
+.ui-button {
+    padding: .0em 1em;
+}
+
 table.dataframe tr {border: 1px #3B3B3B;}
 
 .toolbar_info, .list_container {color: #a5a5a5;}
 
+/* Font Settings*/
+
+.text_cell .CodeMirror pre {
+    font-family: "Input Sans";
+    font-size: 12pt;
+}
+
+div.text_cell_render {
+    font-family: "Input Sans Narrow";
+    font-size: 11pt;
+}
 
 span.ansiblack {color: #393939;}
 span.ansiblue {color: #24249E;}
