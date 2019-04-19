@@ -77,12 +77,12 @@ table.dataframe tr {border: 1px #3B3B3B;}
 
 /* Font Settings*/
 
-.CodeMirror pre {
+.text_cell .CodeMirror  pre {
     font-family: "Input Sans";
     font-size: 11pt;
 }
 
-div.text_cell_render .text_cell {
+div.text_cell_render{
     font-family: "Input Sans Narrow";
     font-size: 10pt;
 }
